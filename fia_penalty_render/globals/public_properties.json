@@ -1,0 +1,22 @@
+{
+    "Properties": [
+        {
+            "Name": "ShowPenaltyPointsInStandings",
+            "PublicName": "Show penalty points on standings",
+            "Type": "Bool",
+            "DefaultValue": true
+        },
+        {
+            "Name": "ShowWinnerInCalendar",
+            "PublicName": "Show winner on calendar",
+            "Type": "Bool",
+            "DefaultValue": true
+        },
+        {
+            "Name": "ShowEventDescriptionInCalendar",
+            "PublicName": "Show event description on calendar",
+            "Type": "Bool",
+            "DefaultValue": true
+        }
+    ]
+}
