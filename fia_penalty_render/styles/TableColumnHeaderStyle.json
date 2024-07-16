@@ -1,0 +1,6 @@
+{
+    "StyleName": "TableColumnHeaderStyle",
+    "FontName": "{FontNameDefault}",
+    "FontSize": 16,
+    "Foreground": "{TableColumnHeaderForeground}"
+}
