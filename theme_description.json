@@ -3,7 +3,7 @@
   "Name": "FIA Penalty Render",
   "Author": "Hines",
   "Description": "FIA Penalty Render w/ Default RLT theme",
-  "Version": "1.0.0",
+  "Version": "1.1.0",
   "DisableUnspecifiedLocalization": false,
   "Links": [],
   "ForceLiveriesLoading": false
